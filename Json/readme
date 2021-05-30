@@ -1,0 +1,7 @@
+            ****************************************Attention*****************************************
+*****************************you dont have to do any thing except the instruction below**************************
+ 1.go to the json\json_parser.py.
+ 2.put your json file in the above directory.
+ 3.In json_parser.py line 7 change the file name to the one that you have putted in the directory.
+ 4.Run json_parser.py
+*********************************** now you are done **************************************
